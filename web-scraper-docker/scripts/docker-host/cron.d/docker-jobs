@@ -1,0 +1,1 @@
+3 0 * * * root /home/ec2-user/jobs/job-scraper-db.sh
